@@ -7,5 +7,6 @@
 - [x] 引入Feign
 - [ ] Cloud Config
 - [ ] Cloud Bus
+- [ ] Sleuth
 - [ ] Zuul
 - [ ] Hystrix
