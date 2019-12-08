@@ -1,0 +1,2 @@
+# spring-cloud-boostrap
+一个基于SpringCloud的微服务项目，旨在快速部署支持SpringCloud各个组件的新项目
